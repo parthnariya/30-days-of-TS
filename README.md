@@ -18,8 +18,8 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 
 ## Challenges
 ### :date: Day 1 :
-- FirstChar :  Get the first character of a string.
-- LastChar : Get the last character of a string
+- [FirstChar](./Day-1/FirstChar.ts) :  Get the first character of a string.
+- [LastChar](./Day-1/LastChar.ts) : Get the last character of a string
 
 ## References
 * [BigFrontEnd.dev](https://bigfrontend.dev/)
