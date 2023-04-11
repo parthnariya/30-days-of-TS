@@ -19,7 +19,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 ## Challenges
 ### :date: Day 1 :
 - [FirstChar](./Day-1/FirstChar.ts) :  Get the first character of a string.
-- [LastChar](./Day-1/LastChar.ts) : Get the last character of a string
+- [LastChar](./Day-1/LastChar.ts) : Get the last character of a string.
+
+### :date: Day 2 :
+- [FlatArray](./Day-2/FlatArray.ts) :  type that takes an array and emitted the flatten array type.
+- [ReverseTuple](./Day-2/ReverseTuple.ts) : Implement the type version of ```Array.reverse```.
 
 ## References
 * [BigFrontEnd.dev](https://bigfrontend.dev/)
