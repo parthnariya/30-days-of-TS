@@ -25,6 +25,10 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [FlatArray](./Day-2/FlatArray.ts) :  type that takes an array and emitted the flatten array type.
 - [ReverseTuple](./Day-2/ReverseTuple.ts) : Implement the type version of ```Array.reverse```.
 
+### :date: Day 3 :
+- [TupleToUnion](./Day-3/TupleToUnion.ts) :  type that takes a tuple and convert to union type.
+- [EqualTypes](./Day-3/EqualTypes.ts) : type hat takes two types as generic and returns a boolean value based on whether they are equal or not.
+
 ## References
 * [BigFrontEnd.dev](https://bigfrontend.dev/)
 * [Type\<Challenge>](https://tsch.js.org/)
