@@ -29,6 +29,10 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [TupleToUnion](./Day-3/TupleToUnion.ts) :  type that takes a tuple and convert to union type.
 - [EqualTypes](./Day-3/EqualTypes.ts) : type hat takes two types as generic and returns a boolean value based on whether they are equal or not.
 
+### :date: Day 2 :
+- [MutableType](./Day-4/MutableType.ts):type which makes all properties in given type mutable (not readonly).
+- [Zip](./Day-4/Zip.ts) : type that takes two arrays with different element types and returns a new array of tuples, where each tuple contains one element from each input array, effectively "zipping" them together.
+
 ## References
 * [BigFrontEnd.dev](https://bigfrontend.dev/)
 * [Type\<Challenge>](https://tsch.js.org/)
