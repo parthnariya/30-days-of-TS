@@ -33,6 +33,10 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [MutableType](./Day-4/MutableType.ts):type which makes all properties in given type mutable (not readonly).
 - [Zip](./Day-4/Zip.ts) : type that takes two arrays with different element types and returns a new array of tuples, where each tuple contains one element from each input array, effectively "zipping" them together.
 
+### :date: Day 5 :
+- [Pop](./Day-5/Pop.ts) :  type that takes an array and remove last element.
+- [ReverseTuple](./Day-5/Trim.ts.ts) : the type version of ```String.prototype.trim()```.
+
 ## References
 * [BigFrontEnd.dev](https://bigfrontend.dev/)
 * [Type\<Challenge>](https://tsch.js.org/)
