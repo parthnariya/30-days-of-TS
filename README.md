@@ -37,6 +37,10 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [Pop](./Day-5/Pop.ts) :  type that takes an array and remove last element.
 - [ReverseTuple](./Day-5/Trim.ts.ts) : the type version of ```String.prototype.trim()```.
 
+### :date: Day 6 :
+- [FunctionParameters](./Day-6/FunctionParameters.ts) :  type that takes an function type and return parameters.
+- [ToUpperCase](./Day-6/ToUpperCase.ts) : type version of ```String.prototype.toUpperCase()```.
+
 ## References
 * [BigFrontEnd.dev](https://bigfrontend.dev/)
-* [Type\<Challenge>](https://tsch.js.org/)
+* [Type\<Challenge[]>](https://tsch.js.org/)
