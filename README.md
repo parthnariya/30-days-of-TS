@@ -41,6 +41,10 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [FunctionParameters](./Day-6/FunctionParameters.ts) :  type that takes an function type and return parameters.
 - [ToUpperCase](./Day-6/ToUpperCase.ts) : type version of ```String.prototype.toUpperCase()```.
 
+### :date: Day 7 :
+- [PickProperty](./Day-7/PickProperty.ts) : the built-in Pick<T, K> generic without using it.
+- [FunctionReturnType](./Day-7/FunctionReturnType.ts) : type returns the return type of given function type.
+
 ## References
 * [BigFrontEnd.dev](https://bigfrontend.dev/)
 * [Type\<Challenge[]>](https://tsch.js.org/)
