@@ -45,6 +45,10 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [PickProperty](./Day-7/PickProperty.ts) : the built-in Pick<T, K> generic without using it.
 - [FunctionReturnType](./Day-7/FunctionReturnType.ts) : type returns the return type of given function type.
 
+### :date: Day 8 :
+- [StringToNumber](./Day-8/StringToNumber.ts) : type that convert given string to number.
+- [InOrderTraversal](./Day-8/InOrderTravesal.ts) : type that return in-order traversal of given tree type.
+
 ## References
 * [BigFrontEnd.dev](https://bigfrontend.dev/)
 * [Type\<Challenge[]>](https://tsch.js.org/)
