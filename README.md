@@ -49,6 +49,10 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [StringToNumber](./Day-8/StringToNumber.ts) : type that convert given string to number.
 - [InOrderTraversal](./Day-8/InOrderTravesal.ts) : type that return in-order traversal of given tree type.
 
+### :date: Day 9 :
+- [GetMiddleElement](./Day-9/GetMiddleElement.ts) : type that return middle element of given tuple.
+- [FlipObject](./Day-9/FlipObject.ts) : type that flip the object key and value pair.
+
 ## References
 * [BigFrontEnd.dev](https://bigfrontend.dev/)
 * [Type\<Challenge[]>](https://tsch.js.org/)
