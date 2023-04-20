@@ -70,6 +70,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [ReplaceAll](./Day-10/ReplaceAll.ts) : type that replace the all the substring with given string.
 - [MinusOne](./Day-10/MinusOne.ts) : type that return number decreased by one.
 
+### :date: Day 11 :
+
+- [AppendToObject](./Day-11/AppendToObject.ts) : type that adds a new field to the type.
+- [FlatArrayWithDepth](./Day-11/FlatArrayWithDepth.ts) : type that takes an array and emitted the flatten tuple by given depth.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
