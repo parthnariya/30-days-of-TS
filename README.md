@@ -75,6 +75,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [AppendToObject](./Day-11/AppendToObject.ts) : type that adds a new field to the type.
 - [FlatArrayWithDepth](./Day-11/FlatArrayWithDepth.ts) : type that takes an array and emitted the flatten tuple by given depth.
 
+### :date: Day 12 :
+
+- [EndsWith](./Day-12/EndsWith.ts) : EndsWith<T, U> tests if T ends with U, both as strings.
+- [StringToTuple](./Day-12/StringToTuple.ts) : type that convert given string to tuple.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
