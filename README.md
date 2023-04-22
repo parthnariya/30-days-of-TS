@@ -80,7 +80,7 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [EndsWith](./Day-12/EndsWith.ts) : EndsWith<T, U> tests if T ends with U, both as strings.
 - [StringToTuple](./Day-12/StringToTuple.ts) : type that convert given string to tuple.
 
-### :date: Day 12 :
+### :date: Day 13 :
 
 - [MyConstructorParams](./Day-13/MyConstructorParams.ts) : MyConstructorParams is implementation of utility type ConstructorParameters.
 - [Absolute](./Day-13/Absolute.ts) : type that take string, number or bigint and give positive number string.
