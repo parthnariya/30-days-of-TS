@@ -85,6 +85,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [MyConstructorParams](./Day-13/MyConstructorParams.ts) : MyConstructorParams is implementation of utility type ConstructorParameters.
 - [Absolute](./Day-13/Absolute.ts) : type that take string, number or bigint and give positive number string.
 
+### :date: Day 14 :
+
+- [LengthOfString](./Day-14/LengthOfString.ts) : type that returns length of given string.
+- [MyInstanceType](./Day-14/MyInstanceType.ts) : type that represents the instance type returned by the constructor function.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
