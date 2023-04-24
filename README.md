@@ -90,6 +90,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [LengthOfString](./Day-14/LengthOfString.ts) : type that returns length of given string.
 - [MyInstanceType](./Day-14/MyInstanceType.ts) : type that represents the instance type returned by the constructor function.
 
+### :date: Day 15 :
+
+- [IndexOf](./Day-15/IndexOf.ts) : type version of `Array.indexOf`.
+- [GreaterThan](./Day-15/GreaterThan.ts) : type that returns boolean if first element is greater.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
