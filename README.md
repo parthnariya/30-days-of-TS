@@ -95,6 +95,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [IndexOf](./Day-15/IndexOf.ts) : type version of `Array.indexOf`.
 - [GreaterThan](./Day-15/GreaterThan.ts) : type that returns boolean if first element is greater.
 
+### :date: Day 16 :
+
+- [ReadonlyByKey](./Day-16/ReadonlyByKey.ts) : type that convert type to readonly based on the keys provided.
+- [DeepReadonly](./Day-16/DeepReadonly.ts) : type that convert given nested type into readonly type.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
