@@ -100,6 +100,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [ReadonlyByKey](./Day-16/ReadonlyByKey.ts) : type that convert type to readonly based on the keys provided.
 - [DeepReadonly](./Day-16/DeepReadonly.ts) : type that convert given nested type into readonly type.
 
+### :date: Day 17 :
+
+- [Sum](./Day-17/Sum.ts) : type that add two given positive number.
+- [Push](./Day-17/Push.ts) : type version of `Array.push`.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
