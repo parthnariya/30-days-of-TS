@@ -105,6 +105,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [Sum](./Day-17/Sum.ts) : type that add two given positive number.
 - [Push](./Day-17/Push.ts) : type version of `Array.push`.
 
+### :date: Day 18 :
+
+- [AllCombinations](./Day-18/AllCombinations.ts) : type that return all combinations of string.
+- [ExtractThisParameters](./Day-18/ExtractThisParameters.ts) : implementation of utility type ThisParameterType.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
