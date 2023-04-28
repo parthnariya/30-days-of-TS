@@ -110,6 +110,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [AllCombinations](./Day-18/AllCombinations.ts) : type that return all combinations of string.
 - [ExtractThisParameters](./Day-18/ExtractThisParameters.ts) : implementation of utility type ThisParameterType.
 
+### :date: Day 19 :
+
+- [AtIndex](./Day-19/AtIndex.ts) : type that return element with given index.
+- [Slice](./Day-19/Slice.ts) : type version of `Array.slice`.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
