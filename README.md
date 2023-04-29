@@ -115,6 +115,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [AtIndex](./Day-19/AtIndex.ts) : type that return element with given index.
 - [Slice](./Day-19/Slice.ts) : type version of `Array.slice`.
 
+### :date: Day 20 :
+
+- [Includes](./Day-20/Includes.ts) : type version of `Array.includes`.
+- [Unshift](./Day-20/Unshift.ts) : type version of `Array.unshift`.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
