@@ -120,6 +120,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [Includes](./Day-20/Includes.ts) : type version of `Array.includes`.
 - [Unshift](./Day-20/Unshift.ts) : type version of `Array.unshift`.
 
+### :date: Day 21 :
+
+- [UnwrapPromise](./Day-21/UnwrapPromise.ts) : implementation of Awaited utility type.
+- [RepeatString](./Day-21/RepeatString.ts) : type version of `String.prototype.repeat`.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
