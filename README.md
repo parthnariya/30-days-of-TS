@@ -125,6 +125,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [UnwrapPromise](./Day-21/UnwrapPromise.ts) : implementation of Awaited utility type.
 - [RepeatString](./Day-21/RepeatString.ts) : type version of `String.prototype.repeat`.
 
+### :date: Day 22 :
+
+- [Fibonacci](./Day-22/Fibbonaci.ts) : type that takes a number and returns its corresponding Fibonacci number.
+- [PickByType](./Day-22/PickByType.ts) : type that extract keys with input type.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
