@@ -130,6 +130,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [Fibonacci](./Day-22/Fibbonaci.ts) : type that takes a number and returns its corresponding Fibonacci number.
 - [PickByType](./Day-22/PickByType.ts) : type that extract keys with input type.
 
+### :date: Day 23 :
+
+- [Diff](./Day-23/Diff.ts) : type that return difference between given two positive number.
+- [MyCapitalize](./Day-23/MyCapitalize.ts) : implementation of built-in utility type Capitalize.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
