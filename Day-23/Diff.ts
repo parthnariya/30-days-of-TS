@@ -32,4 +32,4 @@ type Sub<N1 extends number, N2 extends number> = GreaterThan<
 
 type A = Sub<1, 1>; // 0
 type B = Sub<10, 3>; // 7
-type C = Sub<3, 10>; // never
+type C = Sub<3, 10>; // 7
