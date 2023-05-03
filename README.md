@@ -135,6 +135,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [Diff](./Day-23/Diff.ts) : type that return difference between given two positive number.
 - [MyCapitalize](./Day-23/MyCapitalize.ts) : implementation of built-in utility type Capitalize.
 
+### :date: Day 24 :
+
+- [DropChar](./Day-24/DropChar.ts) : type that drop a specified char from a string.
+- [TupleToString](./Day-24/TupleToString.ts) : type that concat all the strings given in tuple.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
