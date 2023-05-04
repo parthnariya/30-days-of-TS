@@ -140,6 +140,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [DropChar](./Day-24/DropChar.ts) : type that drop a specified char from a string.
 - [TupleToString](./Day-24/TupleToString.ts) : type that concat all the strings given in tuple.
 
+### :date: Day 25 :
+
+- [Permutation](./Day-25/Permutation.ts) : type that transforms union types into the array that includes permutations of unions.
+- [ReplaceKey](./Day-25/ReplaceKey.ts) : type that replace key type with given type.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
