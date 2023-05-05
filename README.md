@@ -145,6 +145,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [Permutation](./Day-25/Permutation.ts) : type that transforms union types into the array that includes permutations of unions.
 - [ReplaceKey](./Day-25/ReplaceKey.ts) : type that replace key type with given type.
 
+### :date: Day 26 :
+
+- [ReverseString](./Day-26/ReverseString.ts) : type that reverse the order of string.
+- [PalindromeCheck](./Day-26/PalindromeCheck.ts) : type that verifies given string is palindrome.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
