@@ -150,6 +150,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [ReverseString](./Day-26/ReverseString.ts) : type that reverse the order of string.
 - [PalindromeCheck](./Day-26/PalindromeCheck.ts) : type that verifies given string is palindrome.
 
+### :date: Day 27 :
+
+- [IsUnique](./Day-27/IsUnique.ts) : type that check whether all characters are unique.
+- [CharCount](./Day-27/CharCount.ts) : type that count occurrence of given char in string.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
