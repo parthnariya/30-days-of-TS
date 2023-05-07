@@ -155,6 +155,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [IsUnique](./Day-27/IsUnique.ts) : type that check whether all characters are unique.
 - [CharCount](./Day-27/CharCount.ts) : type that count occurrence of given char in string.
 
+### :date: Day 28 :
+
+- [MyNonNullable](./Day-28/MyNonNullable.ts) : implementation of utility type NonNullable.
+- [MergeType](./Day-28/MergeType.ts) : type that merge given two types.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
