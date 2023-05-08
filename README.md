@@ -160,6 +160,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [MyNonNullable](./Day-28/MyNonNullable.ts) : implementation of utility type NonNullable.
 - [MergeType](./Day-28/MergeType.ts) : type that merge given two types.
 
+### :date: Day 29 :
+
+- [RemoveItem](./Day-29/RemoveItem.ts) : type that remove element from given tuple.
+- [Chunk](./Day-29/Chunk.ts) : type version of chunk from lodash.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
