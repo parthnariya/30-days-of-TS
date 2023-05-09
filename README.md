@@ -165,6 +165,11 @@ or you can run direct typescript file with [deno](https://deno.land/manual@v1.32
 - [RemoveItem](./Day-29/RemoveItem.ts) : type that remove element from given tuple.
 - [Chunk](./Day-29/Chunk.ts) : type version of chunk from lodash.
 
+### :date: Day 30 :
+
+- [SnakeCase](./Day-30/SnakeCase.ts) : type that convert CamelCase to snake_case.
+- [AnyOf](./Day-30/AnyOf.ts) : type version of any function from python.
+
 ## References
 
 - [BigFrontEnd.dev](https://bigfrontend.dev/)
